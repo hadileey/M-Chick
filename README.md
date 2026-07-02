@@ -1,7 +1,8 @@
 # 🍗 M Chick Fried Chicken Website
 
 <p align="center">
-  <img src="assets/images/logo.png" alt="M Chick Logo" width="180">
+  <img src="https://github.com/user-attachments/assets/e04aeffa-c066-47bd-b51b-83a0f52638e5" alt="M Chick Logo" width="250"/>
+
 </p>
 
 <p align="center">
@@ -19,7 +20,6 @@
 ![License](https://img.shields.io/badge/License-MIT-blue?style=for-the-badge)
 
 </p>
-
 ---
 
 ## ✨ Overview
